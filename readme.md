@@ -1,1 +1,1 @@
-GDP bar chart for FreeCodeCamp
+Doping scatter plot for FreeCodeCamp
