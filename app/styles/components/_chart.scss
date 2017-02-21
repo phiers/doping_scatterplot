@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+div.toolTip {
+  color: black;
+  max-width: 15rem;
+  p {
+    margin-bottom: 0;
+  }
+}
+
+.axis {
+  font-size: 12px;
+}
